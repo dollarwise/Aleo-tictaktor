@@ -1,2 +1,2 @@
-# Aleo-tictaktor
-Aleo tictactor app
+# Aleo-tictac
+Aleo tictac app
